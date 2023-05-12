@@ -9,7 +9,7 @@
 - Clone this repository
 
 ```bash
-git clone https://github.com/harshitethic/Openai-clone/
+git clone https://github.com/Legend-Raj/aichat/
 ```
 
 - Install dependency library
