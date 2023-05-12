@@ -24,12 +24,9 @@ npm i
 cp .env.example .env
 ```
 
-```bash
-REACT_APP_API_KEY="XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
-```
-
 - Run Application
 
 ```bash
+npm i
 npm start
 ```
