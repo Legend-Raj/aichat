@@ -27,6 +27,6 @@ cp .env.example .env
 - Run Application
 
 ```bash
-npm i
+npm run build
 npm start
 ```
